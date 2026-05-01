@@ -1,15 +1,15 @@
 {
-    "version": "1.6.0",
-    "description": "A free CLI for managing .gitignore files",
-    "homepage": "https://gitignore.convergent-systems.co",
-    "license": "MIT",
-    "url": "https://github.com/convergent-systems-co/gitignore/releases/download/v1.6.0/gitignore-v1.6.0-windows-amd64.zip",
-    "hash": "c0ee4105168fc57368352c17efa18f9206f14893368c37107b98f8e5355f70ad",
-    "bin": "gitignore.exe",
-    "checkver": {
-        "github": "https://github.com/convergent-systems-co/gitignore"
-    },
-    "autoupdate": {
-        "url": "https://github.com/convergent-systems-co/gitignore/releases/download/v$version/gitignore-v$version-windows-amd64.zip"
-    }
+  "version": "1.6.1",
+  "description": "A free CLI for managing .gitignore files",
+  "homepage": "https://gitignore.convergent-systems.co",
+  "license": "MIT",
+  "url": "https://github.com/convergent-systems-co/gitignore/releases/download/v1.6.1/gitignore-v1.6.1-windows-amd64.zip",
+  "hash": "1273b120995459bc6228a92d59fffeff6647656b1136331d69ae0f74fb01220b",
+  "bin": "gitignore.exe",
+  "checkver": {
+    "github": "https://github.com/convergent-systems-co/gitignore"
+  },
+  "autoupdate": {
+    "url": "https://github.com/convergent-systems-co/gitignore/releases/download/v$version/gitignore-v$version-windows-amd64.zip"
+  }
 }
