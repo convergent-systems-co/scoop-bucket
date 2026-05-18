@@ -1,0 +1,27 @@
+{
+  "version": "0.1.1",
+  "description": "Command-line client for brand-atoms.com — browse and apply brand kits.",
+  "homepage": "https://brand-atoms.com",
+  "license": "MIT",
+  "architecture": {
+    "64bit": {
+      "url": "https://github.com/convergent-systems-co/branding-library/releases/download/brandatom-v0.1.1/brandatom-windows-amd64.zip",
+      "hash": "47433c7e6107eeab7189e17e4e0fe26c0d626de95492738547d081f7197cf010"
+    }
+  },
+  "bin": "brandatom.exe",
+  "checkver": {
+    "github": "https://github.com/convergent-systems-co/branding-library",
+    "regex": "brandatom-v([\\d.]+)"
+  },
+  "autoupdate": {
+    "architecture": {
+      "64bit": {
+        "url": "https://github.com/convergent-systems-co/branding-library/releases/download/brandatom-v$version/brandatom-windows-amd64.zip"
+      }
+    },
+    "hash": {
+      "url": "$url.sha256"
+    }
+  }
+}
