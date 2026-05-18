@@ -1,0 +1,15 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/convergent-systems-co/auth-b2c/releases/download/v0.1.0/auth-b2c_Windows_x86_64.zip",
+            "bin": [
+                "auth-b2c.exe"
+            ],
+            "hash": "ea574d4f112f1015ebcc61ef34283ad0253584fe4f455215521d4d5056a786b5"
+        }
+    },
+    "homepage": "https://github.com/convergent-systems-co/auth-b2c",
+    "license": "MIT",
+    "description": "Per-site B2C social auth setup: Google · GitHub · Microsoft · Apple → Supabase"
+}
