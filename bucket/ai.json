@@ -1,12 +1,12 @@
 {
-  "version": "0.4.0",
+  "version": "0.4.1",
   "description": "Polliard governance stack bootstrap binary",
   "homepage": "https://convergent-systems-co.github.io/ai/",
   "license": "Proprietary",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/convergent-systems-co/ai/releases/download/v0.4.0/ai-windows-amd64.exe",
-      "hash": "ad623c13c11c0e2375489ed41ec0362ba3c82fcf3939a3be5748f091d17183f5",
+      "url": "https://github.com/convergent-systems-co/ai/releases/download/v0.4.1/ai-windows-amd64.exe",
+      "hash": "69e78b2af500f8f7f847d7031b8491bde45ef2beabd12242359f16fae37f8b54",
       "bin": [["ai-windows-amd64.exe", "ai"]]
     }
   },
