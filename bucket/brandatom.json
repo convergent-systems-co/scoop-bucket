@@ -6,7 +6,7 @@
   "architecture": {
     "64bit": {
       "url": "https://github.com/convergent-systems-co/branding-library/releases/download/brandatom-v0.1.1/brandatom-windows-amd64.zip",
-      "hash": "47433c7e6107eeab7189e17e4e0fe26c0d626de95492738547d081f7197cf010"
+      "hash": "d5ce484220abb5dece6153035db6069c5631872e84fd8725a90b6d4b7620512e"
     }
   },
   "bin": "brandatom.exe",
