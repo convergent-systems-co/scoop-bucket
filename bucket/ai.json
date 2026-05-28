@@ -1,23 +1,22 @@
 {
-  "version": "0.6.0",
-  "description": "Polliard governance stack bootstrap binary",
-  "homepage": "https://convergent-systems-co.github.io/ai/",
-  "license": "Proprietary",
-  "architecture": {
-    "64bit": {
-      "url": "https://pub-c1020ffe9811429797840212d4437655.r2.dev/v0.6.0/ai-windows-amd64.exe",
-      "hash": "dea211b9bb8e5e00396b405e95f58f06b6ee900adaddbd6104bf0fca305d3f70",
-      "bin": [["ai-windows-amd64.exe", "ai"]]
-    }
-  },
-  "checkver": {
-    "github": "https://github.com/convergent-systems-co/ai"
-  },
-  "autoupdate": {
+    "version": "1.3.0",
     "architecture": {
-      "64bit": {
-        "url": "https://pub-c1020ffe9811429797840212d4437655.r2.dev/v$version/ai-windows-amd64.exe"
-      }
-    }
-  }
+        "64bit": {
+            "url": "https://github.com/convergent-systems-co/aiConstitution/releases/download/v1.3.0/aiConstitution_1.3.0_windows_amd64.tar.gz",
+            "bin": [
+                "ai.exe"
+            ],
+            "hash": "35a8cab500964f263fc9fb87db16482fd0ffc44358d08c4a90219f7a5740bfe0"
+        },
+        "arm64": {
+            "url": "https://github.com/convergent-systems-co/aiConstitution/releases/download/v1.3.0/aiConstitution_1.3.0_windows_arm64.tar.gz",
+            "bin": [
+                "ai.exe"
+            ],
+            "hash": "d5c532f1e853132f239d86836205a9d6bfd486df54909b7b3be36a1861c82c7d"
+        }
+    },
+    "homepage": "https://github.com/convergent-systems-co/aiConstitution",
+    "license": "Apache-2.0",
+    "description": "AI Constitution CLI — govern your AI assistant with a personal constitution"
 }
