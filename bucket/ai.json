@@ -6,14 +6,14 @@
             "bin": [
                 "ai.exe"
             ],
-            "hash": "f2945fca0954932e5ac1f0785ff8e045389b06665a592d730d03e8925bac7414"
+            "hash": "cc17096dd14011b48dc6ae5d8f095c9ee7793da70288d7280171f9df55c0b206"
         },
         "arm64": {
             "url": "https://github.com/convergent-systems-co/aiConstitution/releases/download/v1.4.3/aiConstitution_1.4.3_windows_arm64.tar.gz",
             "bin": [
                 "ai.exe"
             ],
-            "hash": "e37f32065050c1d4cbee9b964a86dd46d2ed46a250168a046566f0af4ce6fcf9"
+            "hash": "8a3a2b28ec452306fc8e6e10ba206ca1d052394cefba7594d51bc2671ad1573c"
         }
     },
     "homepage": "https://github.com/convergent-systems-co/aiConstitution",
