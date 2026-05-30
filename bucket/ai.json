@@ -1,19 +1,19 @@
 {
-    "version": "1.4.5",
+    "version": "1.4.6",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/convergent-systems-co/aiConstitution/releases/download/v1.4.5/aiConstitution_1.4.5_windows_amd64.tar.gz",
+            "url": "https://github.com/convergent-systems-co/aiConstitution/releases/download/v1.4.6/aiConstitution_1.4.6_windows_amd64.tar.gz",
             "bin": [
                 "ai.exe"
             ],
-            "hash": "f7af718186f828e4d930fce97818c5f61b0d89e5d5a5309d302025c345c4563c"
+            "hash": "c121cbe5c67a2aaaadd8df95a94300aed51c2ffea4e1d07b78017533b8cb02d6"
         },
         "arm64": {
-            "url": "https://github.com/convergent-systems-co/aiConstitution/releases/download/v1.4.5/aiConstitution_1.4.5_windows_arm64.tar.gz",
+            "url": "https://github.com/convergent-systems-co/aiConstitution/releases/download/v1.4.6/aiConstitution_1.4.6_windows_arm64.tar.gz",
             "bin": [
                 "ai.exe"
             ],
-            "hash": "d73165945ec4df0ec9f8041b233183dbfe2a293b36b7370849aee52bb5043a4d"
+            "hash": "46a0de33fe7f5db9b80720f9e996fd7129873757109cd7596d0c2d2e5970c4cb"
         }
     },
     "homepage": "https://github.com/convergent-systems-co/aiConstitution",
