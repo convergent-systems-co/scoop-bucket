@@ -1,10 +1,10 @@
 {
-  "version": "1.8.1",
+  "version": "1.9.0",
   "description": "A free CLI for managing .gitignore files",
   "homepage": "https://gitignore.convergent-systems.co",
   "license": "MIT",
-  "url": "https://github.com/convergent-systems-co/gitignore/releases/download/v1.8.1/gitignore-v1.8.1-windows-amd64.zip",
-  "hash": "48660cf317dfe19b21696686e26cd2393a44b782975eb6eb50f534c85abdf7a6",
+  "url": "https://github.com/convergent-systems-co/gitignore/releases/download/v1.9.0/gitignore-v1.9.0-windows-amd64.zip",
+  "hash": "a21d1529ffc6151f9d8615a9ce15c704898fb73845f70251310a22481d7c33d9",
   "bin": "gitignore.exe",
   "checkver": {
     "github": "https://github.com/convergent-systems-co/gitignore"
